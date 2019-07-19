@@ -17,7 +17,7 @@ title: CSCI 340 Testing Blog
 email: goadrich@hendrix.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This blog is a demonstration of how your CSCI 340 blog should look.
-baseurl: "/csci340" # the subpath of your site, e.g. /blog
+baseurl: "/csci340blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mgoadric
 github_username:  mgoadric
